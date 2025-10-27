@@ -39,3 +39,9 @@ int sum(int count, ...) {
 }
 
 ```
+
+## Memory allocation:
+
+- calloc
+- malloc
+- realloc
